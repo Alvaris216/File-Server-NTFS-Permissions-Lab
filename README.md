@@ -19,9 +19,13 @@ This project demonstrates the setup and configuration of a Windows Server 2022 f
 
 ## Folder Structure
 C:\Shares
+
 ├── HR
+
 ├── IT
+
 ├── Sales
+
 └── Public
 ## Security Model
 - HR group → HR folder (Full Control)
