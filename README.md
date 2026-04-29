@@ -23,3 +23,17 @@ C:\Shares
 ├── IT
 ├── Sales
 └── Public
+## Security Model
+- HR group → HR folder (Full Control)
+- IT group → IT folder (Full Control)
+- Sales group → Sales folder (Modify access)
+- Domain Users → Public folder (Read access)
+
+## Key Skills Demonstrated
+- Windows Server administration
+- Active Directory group management
+- NTFS permissions (DACLs)
+- Share permissions vs NTFS permissions
+- Access troubleshooting
+
+## Screenshots
